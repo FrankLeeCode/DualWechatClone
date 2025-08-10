@@ -1,4 +1,4 @@
-# DualWechatClone
+# 微信克隆双开
 
 <img src="/res/AppIcon.png" width="100"/>
 
