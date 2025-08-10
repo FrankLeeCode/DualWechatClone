@@ -6,7 +6,7 @@
 
 ## 双开效果
 
-![双开效果](/res/illustration.png)
+<img src="/res/illustration.png" height="350"/>
 
 ## 使用方法
 1. 双击app打开
